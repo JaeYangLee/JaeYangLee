@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JaeYangLee
-- 👀 I’m interested in coding especially frontend development and graphic illustration.
-- 🌱 I’m currently learning Java (Super beginner)
-- 💞️ I’m looking to collaborate on ... idk yet
-- 📫 How to reach me ... ramosjianlee@gmail.com or @jlanl33 on IG (I do stylized 2D illustrations on my instagram as well).
+- 👀 I’m a Computer Science student practicing coding especially Frontend development and UI/UX designing.
+- 🌱 I’m currently learning React.js and TailwindCSS
+- 📫 How to reach me ... ramosjianlee@gmail.com or @jlanl33 on IG (I also do stylized 2D illustrations on my instagram as well).
 - 👀 Im a big hiphop fan just want to put it out here lol
 
 <!---
