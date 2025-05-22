@@ -1,4 +1,4 @@
-Hi there! I am a 24-year-old Computer Science graduate from Bulacan, Philippines, passionate about crafting seamless digital experiences.
+Hi there! I am a Computer Science graduate from Bulacan, Philippines, passionate about crafting seamless digital experiences.
 
 By day (and sometimes late night), I bring ideas to life through frontend development, UI/UX design, and digital illustration.
 I build responsive, user-focused interfaces using React, Tailwind CSS, and Figma always aiming for clean code and intuitive design.
