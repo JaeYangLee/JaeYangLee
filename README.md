@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
   
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYangLee&layout=compact&theme=dracula" width="350" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaeYangLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="350" />
-  </div>
+</div>
+
 </div>
