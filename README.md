@@ -1,6 +1,6 @@
 <div align="center">  
   <h2>Fullstack Developer | Computer Science Graduate</h2>
-  <p>https://jianleeramos.apps.skwtr.com/</p>
+  <a href="https://jianleeramos.apps.skwtr.com/" target="_blank">https://jianleeramos.apps.skwtr.com/</a>
 
   <h3 align="center">My Tech Stack</h3>
 <p align="center">
