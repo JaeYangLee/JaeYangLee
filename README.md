@@ -1,18 +1,24 @@
-<div align="center">  
+<div align="center">
   <h2>Fullstack Developer | Computer Science Graduate</h2>
   <a href="https://jianleeramos.apps.skwtr.com/" target="_blank">https://jianleeramos.apps.skwtr.com/</a>
 
-  <h3 align="center">My Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-%233282a3.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-  
-  <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px; align-items: center;">
-    <img align="center" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=JaeYangLee&langs_count=4&theme=dracula"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaeYangLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="350" />
-</div>
+  <h3>My Tech Stack</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-%233282a3.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </p>
 
+  <h3>GitHub Stats</h3>
+  <table align="center">
+    <tr>
+      <td align="center" valign="middle">
+        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaeYangLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      </td>
+      <td align="center" valign="middle">
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=JaeYangLee&langs_count=4&theme=dracula&layout=compact"/>
+      </td>
+    </tr>
+  </table>
 </div>
