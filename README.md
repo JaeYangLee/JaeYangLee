@@ -11,7 +11,7 @@
 </p>
   
   <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px; align-items: center;">
-    <img align="center" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=glenngenre&layout=compact&langs_count=4&theme=dracula"/>
+    <img align="center" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=JaeYangLee&langs_count=4&theme=dracula"/>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaeYangLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="350" />
 </div>
 
