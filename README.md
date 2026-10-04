@@ -9,16 +9,18 @@
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   </p>
-
-  <h3>GitHub Stats</h3>
+  
   <table align="center">
     <tr>
-      <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaeYangLee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </td>
-      <td align="center" valign="middle">
-        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=JaeYangLee&langs_count=4&theme=dracula&layout=compact"/>
+      <td align="center">
+        <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=JaeYangLee&langs_count=4&theme=merko&layout=compact"/>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaeYangLee&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+      </td>
+    </tr>
+    
   </table>
 </div>
