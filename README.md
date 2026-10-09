@@ -16,11 +16,6 @@
         <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=JaeYangLee&langs_count=4&theme=merko&layout=compact"/>
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaeYangLee&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-      </td>
-    </tr>
     
   </table>
 </div>
